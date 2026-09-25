@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What a good TV &amp; movie tracker should do (and why I built one) | dizi.jpg</title>
+<meta name="description" content="Episode-level progress, a real release calendar, spoiler-safe reviews and an export button. Here is the checklist I used when TV Time shut down, and how dizi.jpg handles each item.">
+<link rel="canonical" href="https://hexarch.github.io/en/tv-movie-tracker/">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="dizi.jpg Blog">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="What a good TV &amp; movie tracker should do (and why I built one) | dizi.jpg">
+<meta property="og:description" content="Episode-level progress, a real release calendar, spoiler-safe reviews and an export button. Here is the checklist I used when TV Time shut down, and how dizi.jpg handles each item.">
+<meta property="og:url" content="https://hexarch.github.io/en/tv-movie-tracker/">
+<meta property="og:image" content="https://hexarch.github.io/img/og.png">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0d0d0d">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="alternate" type="application/rss+xml" title="dizi.jpg Blog" href="https://hexarch.github.io/feed.xml">
+<link rel="stylesheet" href="/style.css?v=1">
+<meta property="article:published_time" content="2026-09-25">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "What a good TV & movie tracker should do (and why I built one)", "description": "Episode-level progress, a real release calendar, spoiler-safe reviews and an export button. Here is the checklist I used when TV Time shut down, and how dizi.jpg handles each item.", "inLanguage": "en", "datePublished": "2026-09-25", "dateModified": "2026-09-25", "mainEntityOfPage": "https://hexarch.github.io/en/tv-movie-tracker/", "image": "https://hexarch.github.io/img/og.png", "author": {"@type": "Organization", "name": "dizi.jpg", "url": "https://dizijpg.com/"}, "publisher": {"@type": "Organization", "name": "dizi.jpg", "url": "https://dizijpg.com/", "logo": {"@type": "ImageObject", "url": "https://hexarch.github.io/img/logo.png"}}, "about": {"@type": "SoftwareApplication", "name": "dizi.jpg", "url": "https://dizijpg.com/", "applicationCategory": "EntertainmentApplication", "operatingSystem": "Android, iOS, Web"}}</script>
+</head>
+<body>
+<header class="ust"><div class="kap">
+<a class="marka" href="/en/"><img src="/img/logo.png" width="36" height="36" alt="">dizi.jpg Blog</a>
+<nav><a class="dugme" href="https://dizijpg.com/en">Open on the web</a></nav>
+</div></header>
+<main class="kap">
+<article class="yazi">
+<p class="ust-bilgi"><a href="/en/">Posts</a> · <time datetime="2026-09-25">September 25, 2026</time> · 2 min read</p>
+<h1>What a good TV &amp; movie tracker should do (and why I built one)</h1>
+<p class="giris">Episode-level progress, a real release calendar, spoiler-safe reviews and an export button. Here is the checklist I used when TV Time shut down, and how dizi.jpg handles each item.</p>
+
+<p>A TV &amp; movie tracker sounds like a simple thing: a list of what you have watched. In practice most of them fall apart the moment you follow more than a handful of shows. I have been keeping a watch log for years, and when TV Time shut down I went looking for a replacement. I did not find one I liked, so I built <a href="https://dizijpg.com/en">dizi.jpg</a>. Full disclosure: I am its developer.</p>
+<p>This post is the checklist I ended up with. You can use it to judge any tracker, including mine.</p>
+
+<h2>1. It tracks episodes, not just titles</h2>
+<p>For movies, "watched" is enough. For shows you need to know that you are on season 3, episode 5. A good tracker lets you tick an episode with one tap, fills a progress bar per season.</p>
+<figure><img src="/img/en-3-bolum-isaretleme.webp" width="540" height="960" loading="lazy" alt="Marking an episode as watched in dizi.jpg"><figcaption>Marking an episode as watched in dizi.jpg</figcaption></figure>
+
+<h2>2. It tells you when new episodes arrive</h2>
+<p>The whole point of tracking is not having to remember. dizi.jpg keeps an <a href="https://dizijpg.com/takvim">upcoming episodes calendar</a> grouped by show, with how many episodes you are behind, and sends a notification to your phone when a new one airs.</p>
+<figure><img src="/img/en-4-takvim.webp" width="540" height="960" loading="lazy" alt="Upcoming episodes calendar"><figcaption>Upcoming episodes calendar</figcaption></figure>
+
+<h2>3. It keeps your library in clear states</h2>
+<p>Watchlist, watching, completed, dropped. Four shelves, filled automatically as you mark episodes. Rewatches are counted separately instead of overwriting your first watch, and ratings go down to decimals if you care about the difference between a 4.2 and a 4.5.</p>
+
+<h2>4. It protects you from spoilers</h2>
+<p>Reading reactions after an episode is half the fun, and the fastest way to get spoiled. dizi.jpg uses two layers: the reviewer can flag a spoiler, and the server also knows where you are. If you have not watched S3E4, reviews about S3E4 are blurred for you even if nobody flagged them. Reviews written in other languages are shown translated, with the original one tap away.</p>
+<figure><img src="/img/en-7-incelemeler.webp" width="540" height="960" loading="lazy" alt="Spoiler-safe reviews"><figcaption>Spoiler-safe reviews</figcaption></figure>
+
+<h2>5. It helps you decide what to watch next</h2>
+<ul>
+<li><strong>Episode heatmap:</strong> every episode rating of a show on a season × episode grid. See where a show dips before you commit. Try it on <a href="https://dizijpg.com/icerik/tv/1396?dil=en">Breaking Bad</a>.</li>
+<li><strong>Rating distribution:</strong> an average of 6.0 can mean "everyone thought it was okay" or "half loved it, half hated it". The histogram tells you which.</li>
+<li><strong>Where to watch:</strong> streaming, rent and buy options on each title page.</li>
+<li><strong>The wheel:</strong> spin your watchlist and let it pick. Surprisingly, this is the feature I use most.</li>
+</ul>
+<figure><img src="/img/en-5-bolum-isi-haritasi.webp" width="540" height="960" loading="lazy" alt="Episode rating heatmap"><figcaption>Episode rating heatmap</figcaption></figure>
+
+<h2>6. It lets you bring your history in, and take it out</h2>
+<p>Starting from zero is why most people never switch. dizi.jpg imports the TV Time export file and Letterboxd exports (watched films, ratings, lists), and a single CSV or JSON works too. In the other direction, you can export everything at any time (the ZIP is sent to your email) and delete your account completely. Apps shut down; your log should not go with them.</p>
+
+<h2>7. It works where you are</h2>
+<p>dizi.jpg runs on the <a href="https://dizijpg.com/en">web</a>, on <a href="https://play.google.com/store/apps/details?id=com.dizijpg.dizijpg">Android</a> (including Android TV) and on <a href="https://apps.apple.com/app/id6806987135">iPhone</a>, in 46 languages. There are no ads and no in-app purchases.</p>
+
+<h2>Try it</h2>
+<p>You can browse without an account: the <a href="https://dizijpg.com/kesfet">Discover page</a> is open to everyone. If you are coming from TV Time, bring your export file along. Feedback of any kind is welcome.</p>
+
+</article>
+<aside class="kutu">
+<img src="/img/logo.png" width="64" height="64" alt="dizi.jpg">
+<div><strong>dizi.jpg</strong><p>Track your shows and movies in one place.</p>
+<p class="dugmeler"><a class="dugme" href="https://dizijpg.com/en">Open on the web</a> <a class="dugme ikincil" href="https://play.google.com/store/apps/details?id=com.dizijpg.dizijpg">Google Play</a> <a class="dugme ikincil" href="https://apps.apple.com/app/id6806987135">App Store</a></p></div>
+</aside>
+</main>
+<footer class="alt"><div class="kap">
+<p class="diller"><a href="/">Türkçe</a> · <a href="/en/" aria-current=page>English</a> · <a href="/es/">Español</a></p>
+<p><a href="https://dizijpg.com/">dizijpg.com</a> · <a href="https://play.google.com/store/apps/details?id=com.dizijpg.dizijpg">Google Play</a> · <a href="https://apps.apple.com/app/id6806987135">App Store</a> · <a href="https://www.instagram.com/dizi.jpg/">Instagram</a></p>
+<p class="kucuk">This blog is written by the developer of dizi.jpg. Content data comes from TMDB, streaming availability from JustWatch.</p>
+</div></footer>
+</body>
+</html>
