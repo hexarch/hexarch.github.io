@@ -144,6 +144,35 @@ YAZILAR.append(dict(
 <p>Uygulama webde, <a href="{PLAY}">Android</a>'de ve <a href="{IOS}">iPhone</a>'da var. Önce bakmak istersen <a href="{APP}/kesfet">Keşfet sayfası</a> üyelik istemiyor.</p>
 """))
 
+# ---------------------------------------------------------------- TR 3
+YAZILAR.append(dict(
+    dil="tr", slug="ekim-izleme-rehberi", tarih="2026-10-15",
+    baslik="Ekim izleme rehberi: en iyi korku filmleri, bilim kurgu ve 2026'nın en çok izlenen dizileri",
+    ozet="Ekim akşamları için hazır listeler: izleyici puanına göre en iyi korku ve bilim kurgu filmleri, 2026'da en çok izlenen diziler ve yarım kalan sezonlara bölüm bölüm dönmenin yolu.",
+    govde=lambda: f"""
+<p>Ekim, korku filmlerinin ve yeni sezonların ayı. Ne izleyeceğine karar vermek için saatlerce afiş kaydırmak yerine hazır listelerden başlamak daha hızlı. Bu yazıda <a href="{APP}/">dizi.jpg</a>'deki listeleri nasıl kullandığımı ve yarım kalan dizilere nasıl döndüğümü anlatıyorum.</p>
+
+<h2>En iyi korku filmleri: puanla sıralı liste</h2>
+<p><a href="{APP}/raf/en-iyi-korku-filmleri">En iyi korku filmleri</a> listesi tüm zamanlardan, yeterli oy almış korku filmlerini izleyici puanına göre sıralıyor. İlk sıralarda <a href="{APP}/icerik/movie/539">Sapık</a>, <a href="{APP}/icerik/movie/694">Cinnet</a> ve <a href="{APP}/icerik/movie/25237">Gel ve Gör</a> var; hemen arkalarında Yaratık ve Şey gibi klasikler geliyor. Listede izlediklerini işaretleyince geriye kalanlar senin Ekim listen olur.</p>
+
+<h2>En iyi bilim kurgu filmleri</h2>
+<p>Korku sana göre değilse <a href="{APP}/raf/en-iyi-bilim-kurgu-filmleri">en iyi bilim kurgu filmleri</a> listesi aynı mantıkla çalışıyor. Başlarda Kurtuluş Projesi, <a href="{APP}/icerik/movie/157336">Yıldızlararası</a> ve Başlangıç var. Her filmin sayfasında oyuncular, puan dağılımı ve hangi platformda izlenebildiği yazıyor.</p>
+
+<h2>2026'nın en çok izlenen dizileri</h2>
+<p><a href="{APP}/raf/2026-yilinin-en-cok-izlenen-dizileri">2026'nın en çok izlenen dizileri</a> listesi bu yıl yeni bölümü yayınlanan dizileri izleyici oyu sayısına göre sıralıyor. Başta The Boys, Rick and Morty ve Peaky Blinders var. Yeni sezonu başlayan bir diziyi takibe aldığında yeni bölümler takvimine düşüyor.</p>
+
+<h2>Yarım kalan sezona bölüm bölüm dön</h2>
+<p>Bir diziye ara verdiysen sorun genelde "hangi bölümde kalmıştım?" sorusu. dizi.jpg'de her bölümün kendi sayfası var: örneğin <a href="{APP}/dizi/60625/sezon/9/bolum/10">Rick and Morty 9. sezon 10. bölüm</a> ya da <a href="{APP}/dizi/113962/sezon/3/bolum/4">Lioness 3. sezon 4. bölüm</a> sayfasında bölümün konusunu, konuk oyuncularını ve izleyici puanını görüp izledim olarak işaretleyebilirsin. Spoiler içeren yorumlar sen o bölümü izleyene kadar bulanık kalıyor.</p>
+
+<h2>Listeyi kendine göre kullanmak</h2>
+<ul>
+<li>Listede izlediklerini işaretle; kalanlar izleme sıran olur.</li>
+<li>Beğendiğin filmleri kendi listene ekle: "Ekim korku gecesi" gibi.</li>
+<li>Arkadaşlarınla aynı filmi izleyeceksen izleme odası açıp aynı anda izleyebilirsin.</li>
+</ul>
+<p>dizi.jpg webde açılıyor; <a href="{PLAY}">Google Play</a> ve <a href="{IOS}">App Store</a>'da da var.</p>
+"""))
+
 # ---------------------------------------------------------------- EN
 YAZILAR.append(dict(
     dil="en", slug="tv-movie-tracker", tarih="2026-09-25",
