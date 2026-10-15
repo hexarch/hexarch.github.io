@@ -262,6 +262,185 @@ YAZILAR.append(dict(
 <p>dizi.jpg funciona en la <a href="{APP}/es">web</a>, en <a href="{PLAY}">Android</a> y en <a href="{IOS}">iPhone</a>, en 46 idiomas, sin anuncios ni compras dentro de la app. Puedes explorar sin cuenta desde la página <a href="{APP}/kesfet">Descubrir</a>.</p>
 """))
 
+# ---------------------------------------------------------------- D1-D4 derin sorgu yazıları (2026-10-15)
+YAZILAR.append(dict(
+    dil="tr", slug="iyi-sanslar-charlie-oyunculari", tarih="2026-10-15",
+    baslik="İyi şanslar charlie oyuncuları: kimler oynuyor ve dizi kaç sezon sürdü?",
+    ozet="İyi şanslar charlie oyuncuları kimler? Disney Channel dizisinin 4 sezonluk kadrosu, künye bilgileri, puanları ve dizi.jpg'de nasıl takip edileceği.",
+    govde=lambda: f"""
+<p>Duncan ailesinin dördüncü çocuğu Charlie'nin hayatını anlatan dizi için en sık sorulan soru <a href="https://dizijpg.com/icerik/tv/21641">iyi şanslar charlie oyuncuları</a> oluyor. Kısa cevap şu: dizi 4 sezon ve 99 bölüm boyunca geniş bir kadroyla ekrandaydı. Bu yazıda kadroyu, yapım bilgilerini ve dizinin sayfasında neleri bulabileceğini topluyorum.</p>
+
+<h2>Dizinin konusu</h2>
+<p>Dizi, Duncan ailesine dördüncü bir bebek katıldığında evin düzeninin tamamen dağılmasını anlatıyor. Dizinin asıl fikri bu kargaşayı ailenin ergen kızı Teddy'nin gözünden aktarması. Teddy, her bölümde kendi video günlüğünü kaydediyor; Charlie hakkında tavsiyeler veriyor ve bir genç olarak yaşamayı anlatıyor.</p>
+<h2>İyi şanslar charlie oyuncuları kimler?</h2>
+<p>Ana rolde Bridgit Mendler var; dizide Teddy Duncan karakterini canlandırıyor. dizi.jpg'deki kadro listesinde diğer isimler de yer alıyor: Leigh-Allyn Baker, Bradley Steven Perry, Mia Talerico, Eric Allan Kramer, Jason Dolley, Raven Goodwin, Shane Harper, Micah Williams, Patricia Belcher, Luke Benward ve Coco Jones. Sayfadaki liste bunlardan daha uzun; burada ilk akla gelen isimleri aldım.</p>
+
+<h2>Dizinin künyesi</h2>
+<ul>
+<li><strong>Kadro:</strong> dizi.jpg sayfasında 20 oyuncu listeleniyor.</li>
+<li><strong>Yayın yılı:</strong> 2010. İlk bölüm 4 Nisan 2010'da yayımlandı.</li>
+<li><strong>Sezon ve bölüm:</strong> 4 sezon, 99 bölüm. Dizi sona erdi.</li>
+<li><strong>Kanal:</strong> Disney Channel</li>
+<li><strong>Yaratıcılar:</strong> Drew Vaupen ve Phil Baker</li>
+<li><strong>Tür:</strong> Komedi, aile, çocuklar</li>
+</ul>
+<p>Dizinin adı ailenin en küçük üyesinden geliyor. Merkezde Teddy Duncan var; dizi, dördüncü bebeğin doğumuyla değişen evin düzenini komedi çerçevesinde anlatıyor. Bölümler kısa ve hafif, bu yüzden bir akşam tek bölümle bile rahatça ilerleyebilirsin.</p>
+
+<h2>Puanlar ve takip</h2>
+<p>dizi.jpg sayfasında dizi TMDB'de 7,9, IMDb'de 7,1 ve Popcornmeter'da %73 puan alıyor. Puanlar zamanla değişir; güncel rakamları sayfadan kontrol etmek en doğrusu. Dizi bittiği için bölümleri baştan sona tek seferde işaretleyip ilerleyebilirsin. Bölüm işaretlerin kayıtlı kalır, yarıda bıraktığın yerden devam edersin.</p>
+
+<h2>Dizi kime göre?</h2>
+<p>İyi Şanslar Charlie, ailenin kalabalıklaşmasını hafif bir komedi diliyle izlemek isteyenlere göre. Dört sezon ve 99 bölüm, bir ailenin büyüme hikâyesini baştan sona takip etmek için yeterli uzunlukta. Dizi bittiği için bölüm bölüm ilerlemek, sezonları arka arkaya kapatmak isteyenler için uygun.</p>
+<p>dizi.jpg sayfasında puanlar TMDB ve IMDb'de kullanıcı oylarından, Popcornmeter'da ise izleyici oranından geliyor. Puanları tek başına değil, kaynağıyla birlikte okumak daha sağlıklı.</p>
+<h2>dizi.jpg'de nasıl takip edilir?</h2>
+<p>Bölümü tek dokunuşla işaretliyorsun; sezon ilerleme çubuğu her işaretten sonra doluyor. Dizi için puan verebilir, istersen kısa bir inceleme yazabilirsin. Takip listene eklediğin diziler İzleyeceğim, İzliyorum, Bitirdim ya da Bıraktım raflarına ayrılıyor.</p>
+<h2>Sık sorulan sorular</h2>
+<h3>İyi şanslar charlie oyuncuları kimler?</h3>
+<p>Bridgit Mendler, Leigh-Allyn Baker, Bradley Steven Perry ve Eric Allan Kramer dizinin bilinen isimleri arasında. Tam liste dizinin sayfasında yer alıyor. Ana rolde Teddy Duncan'i canlandıran Bridgit Mendler, dizinin merkezindeki isim.</p>
+<h3>İyi Şanslar Charlie kaç sezon sürdü?</h3>
+<p>4 sezon ve 99 bölüm. Dizi sona erdi, yeni sezon beklemene gerek yok. Sezon ve bÃ¶lÃ¼m sayÄ±sÄ±nÄ± dizinin sayfasÄ±nda da kontrol edebilirsin.</p>
+<h3>Dizi nerede takip edilir?</h3>
+<p>Bölümleri dizi.jpg'de işaretleyip sezon ilerlemesini takip edebilirsin. Dizinin sayfasında künye, puanlar ve kanal bilgisi de duruyor.</p>
+
+<h2>Takip etmek için</h2>
+<p>Dizilerini ve filmlerini tek yerde tutmak istersen <a href="https://dizijpg.com/">dizi.jpg</a>'e bakabilirsin. Webde açılır; Android ve iPhone uygulaması da var.</p>
+"""))
+
+YAZILAR.append(dict(
+    dil="tr", slug="ted-lasso-oyunculari", tarih="2026-10-15",
+    baslik="Ted Lasso oyuncuları: kimler oynuyor ve dizi kaç sezon?",
+    ozet="Ted Lasso oyuncuları kimler? Apple TV dizisinin kadrosu, yaratıcıları, puanları ve dizi.jpg'de bölümleri takip etme yolu.",
+    govde=lambda: f"""
+<p>Ted Lasso, futbol takımına teknik direktörlük yapmak için işe alınan bir Amerikan futbolu koçunun hikâyesini anlatıyor. Dizinin ana karakterlerini kimlerin canlandırdığını merak edenler için en pratik kaynak <a href="https://dizijpg.com/icerik/tv/97546">ted lasso oyuncuları</a> sayfası. Bu yazıda kadroyu, dizinin künyesini ve sayfada neleri bulabileceğini topladım.</p>
+
+<h2>Dizinin konusu</h2>
+<p>Dizi, futbol takımına teknik direktörlük yapmak için işe alınan bir Amerikan futbolu koçunu anlatıyor. Sayfadaki özete göre Lasso'nun teknik direktörlük deneyimi yok; yine de takımın başarılı olması için elinden geleni yapıyor. Özete göre bu fikir kağıt üzerinde bir fıkra gibi görünüyor; dizi de bu farkla ilerliyor.</p>
+<h2>Ted Lasso oyuncuları kimler?</h2>
+<p>Ana rolde Jason Sudeikis var. dizi.jpg'deki kadro listesinde Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt, Juno Temple, Phil Dunster, Nick Mohammed, Toheeb Jimoh ve Kola Bokinni yer alıyor. Liste sayfada bunlardan daha uzun; buradaki isimler ilk bakışta en çok karşılaşılanlar.</p>
+
+<h2>Dizinin künyesi</h2>
+<ul>
+<li><strong>Kadro:</strong> dizi.jpg sayfasında 20 oyuncu listeleniyor.</li>
+<li><strong>Yayın yılı:</strong> 2020. İlk bölüm 14 Ağustos 2020'de yayımlandı.</li>
+<li><strong>Sezon ve bölüm:</strong> dizi.jpg sayfasında 4 sezon, 44 bölüm olarak yazıyor. Dizi devam ediyor.</li>
+<li><strong>Kanal:</strong> Apple TV</li>
+<li><strong>Yaratıcılar:</strong> Bill Lawrence, Jason Sudeikis ve Joe Kelly</li>
+<li><strong>Tür:</strong> Dram, komedi</li>
+</ul>
+<p>Sayfadaki özete göre hikâye, futbol takımına teknik direktörlük yapmak için işe alınan koçun etrafında dönüyor. Dram ile komediyi birlikte taşıyan bir yapısı var.</p>
+
+<h2>Puanlar ve takip</h2>
+<p>dizi.jpg sayfasında dizi TMDB'de 8,4, IMDb'de 8,7, Rotten Tomatoes'ta %89, Popcornmeter'da %81 ve Metacritic'te 74 puan alıyor. Dizi hâlâ devam ettiği için yeni bölüm çıktığında takvim ekranı, takip ettiğin diziler için yeni bölümleri listeler. Sezon ilerlemeni bölüm işaretleyerek tutabilirsin.</p>
+
+<h2>Dizi kime göre?</h2>
+<p>Ted Lasso, futbol bilmeyenlerin de takip edebileceği bir dizi olarak düşünülebilir; hikâye karakterlerin ilişkileri üzerine kurulu. Dizinin sayfasında 4 sezon ve 44 bölüm yazması, arada bir maraton yapmak isteyenler için makul bir uzunluk.</p>
+<p>dizi.jpg sayfasındaki puanlar TMDB ve IMDb'de kullanıcı oylarından, Rotten Tomatoes ve Popcornmeter'da eleştirmen ile izleyici oranlarından, Metacritic'te ise eleştirmen puanlarının ağırlıklı ortalamasından geliyor.</p>
+<h2>dizi.jpg'de nasıl takip edilir?</h2>
+<p>Her bölümü ayrı ayrı işaretleyebiliyor, sezon ilerlemeni bölüm sayısına göre görebiliyorsun. Puan verip kısa bir inceleme de yazabilirsin. Takip listene eklediğin diziler İzleyeceğim, İzliyorum, Bitirdim ya da Bıraktım raflarında ayrı ayrı duruyor.</p>
+<h2>Sık sorulan sorular</h2>
+<h3>Ted Lasso oyuncuları kimler?</h3>
+<p>Ana rolde Jason Sudeikis var. Hannah Waddingham, Brett Goldstein ve Brendan Hunt da dizinin bilinen isimleri arasında. Tam liste dizinin sayfasında.</p>
+<h3>Ted Lasso kaç sezon?</h3>
+<p>dizi.jpg sayfasında 4 sezon ve 44 bölüm olarak görünüyor. Dizi devam ettiği için sayfadaki rakamları ara sıra kontrol etmekte fayda var.</p>
+<h3>Ted Lasso nerede yayımlanıyor?</h3>
+<p>Dizi Apple TV kanalında yayımlanıyor; sayfadaki kanal bilgisi de bu.</p>
+
+<h2>Kısa özet</h2>
+<p>Kadro için yukarıdaki liste ve künye yeterli bir başlangıç. Dizi devam ettiği için sezon ve bölüm sayısını ara ara kontrol etmek faydalı olur. Yapım, Apple TV'de yayımlanan bir Amerikan futbolu koçunun hikâyesi olarak kısa bir maraton için de uygun görünüyor.</p>
+<h2>Takip etmek için</h2>
+<p>Bir sezonu yarıda bırakıp dönmek istersen dizi.jpg'de son işaretlediğin bölüm yerinde kalır. Dizilerini ve filmlerini tek yerde takip etmek için <a href="https://dizijpg.com/">dizi.jpg</a>'e bakabilirsin.</p>
+"""))
+
+YAZILAR.append(dict(
+    dil="tr", slug="pablo-escobar-kotulugun-efendisi-oyunculari", tarih="2026-10-15",
+    baslik="Pablo Escobar kötülüğün efendisi oyuncuları: kimler oynuyor?",
+    ozet="Pablo Escobar kötülüğün efendisi oyuncuları kimler? Caracol TV dizisinin kadrosu, künyesi ve puanları; dizi.jpg'de nasıl takip edileceği.",
+    govde=lambda: f"""
+<p>Kötü şöhretli Pablo Escobar'ın küçük hırsızlıklarla başlayıp uyuşturucu kaçakçılığı imparatorluğuna uzanan hayatını anlatan dizi, en çok <a href="https://dizijpg.com/icerik/tv/43348">pablo escobar kötülüğün efendisi oyuncuları</a> diye aranıyor. Bu yazıda kadronun öne çıkan isimlerini, dizinin künyesini ve puanlarını derledim.</p>
+
+<h2>Dizinin konusu</h2>
+<p>Dizi, Kötü şöhretli Pablo Escobar'ın küçük hırsızlıklarla başlayan hayatını uyuşturucu kaçakçılığı imparatorluğuna kadar anlatıyor. Sayfadaki özete göre olaylar, Amerikan yapımlarındaki dışarıdan bakışın aksine yaşandığı ülkenin perspektifinden aktarılıyor. Dizinin özgün adı Pablo Escobar: El Patrón del Mal.</p>
+<h2>Pablo Escobar kötülüğün efendisi oyuncuları kimler?</h2>
+<p>Kadronun ilk ismi Andrés Parra. dizi.jpg sayfasındaki listede Christian Tappan, Cecilia Navia, Angie Cepeda, Vicky Hernández, Rodolfo Silva, Tommy Vásquez, Toto Vega, Nicolás Montero, Marcela Gallego, Ernesto Benjumea, Diana Hoyos, Germán Quintero ve Helena Mallarino de yer alıyor.</p>
+
+<h2>Dizinin künyesi</h2>
+<ul>
+<li><strong>Kadro:</strong> dizi.jpg sayfasında 20 oyuncu listeleniyor.</li>
+<li><strong>Yayın yılı:</strong> 2012. İlk bölüm 28 Mayıs 2012'de yayımlandı.</li>
+<li><strong>Sezon ve bölüm:</strong> 1 sezon, 113 bölüm. Dizi sona erdi.</li>
+<li><strong>Kanal:</strong> Caracol TV</li>
+<li><strong>Yaratıcı:</strong> Carlos Moreno</li>
+<li><strong>Tür:</strong> Suç, dram</li>
+</ul>
+<p>Sayfadaki özete göre dizi, Escobar'ın hayatını tek bir çizgide değil, tüm yükselişiyle birlikte gözler önüne seriyor. Bu yüzden her bölümü ayrı ayrı izlemek yerine sezonu bir bütün olarak takip etmek daha keyifli olabilir.</p>
+
+<h2>Puanlar ve takip</h2>
+<p>dizi.jpg sayfasında dizi IMDb'de 8,4 ve TMDB'de 7,7 puan alıyor. Dizi 113 bölümlük tek bir sezondan oluştuğu için uzun bir yapım; bölümleri işaretleyerek ilerlemek, nerede kaldığını unutmamanı sağlar.</p>
+
+<h2>Dizi kime göre?</h2>
+<p>Pablo Escobar: Kötülüğün Efendisi, gerçek bir suç hikâyesini uzun bir dizi formatında merak edenler için. Tek sezon ve 113 bölüm, Escobar'ın hayatını baştan sona tek bir anlatı içinde okumak isteyenlere göre hazırlanmış bir yapı.</p>
+<p>dizi.jpg sayfasındaki puanlar IMDb ve TMDB'den geliyor. IMDb kullanıcı oylarını, TMDB ise topluluk puanlarını gösterir; iki kaynağın farkı dizinin kimler tarafından nasıl beğenildiğine dair ipucu verir. Puanlar aynı anda okunduğunda dizinin hangi kitleye hitap ettiği daha net görünür.</p>
+<h2>dizi.jpg'de nasıl takip edilir?</h2>
+<p>Bölümleri tek tek işaretleyerek sezon ilerlemeni görebilirsin; 113 bölümlük bir yapımda bu, kaldığın yeri kaybetmemek için en pratik yol. Puan verip kısa bir inceleme de yazabilirsin. Takip listene eklediğin diziler İzleyeceğim, İzliyorum, Bitirdim ya da Bıraktım raflarında ayrı ayrı duruyor.</p>
+<h2>Sık sorulan sorular</h2>
+<h3>Pablo Escobar kötülüğün efendisi oyuncuları kimler?</h3>
+<p>Andrés Parra, Christian Tappan, Cecilia Navia ve Angie Cepeda dizinin bilinen isimleri arasında. Tam liste dizinin sayfasında. Kadronun ilk ismi Andrés Parra; listedeki diğer isimler de dizinin farklı karakterlerini canlandırıyor.</p>
+<h3>Pablo Escobar: Kötülüğün Efendisi kaç bölüm?</h3>
+<p>1 sezon ve 113 bölüm. Dizi sona erdi. Tek sezonluk yapısı, Escobar'ın hikâyesini baştan sona tek bir anlatı olarak okumayı kolaylaştırıyor.</p>
+<h3>Dizinin puanı nedir?</h3>
+<p>dizi.jpg sayfasında IMDb'de 8,4, TMDB'de 7,7 olarak yazıyor. Puanlar zamanla değişebilir.</p>
+
+<h2>Kısa özet</h2>
+<p>Bu yazıdaki kadro listesi, künye ve puanlar, dizinin temel bilgilerini bir arada veriyor. Dizi tek sezon ve 113 bölümle sona erdi; küçük hırsızlıklardan imparatorluğa uzanan yolu bölüm bölüm takip etmek için dizi.jpg'de bölümleri işaretleyerek ilerleyebilirsin.</p>
+<h2>Takip etmek için</h2>
+<p>Dizilerini ve filmlerini tek yerde takip etmek istersen <a href="https://dizijpg.com/">dizi.jpg</a>'e bakabilirsin. Webde açılır; Android ve iPhone uygulaması da var.</p>
+"""))
+
+YAZILAR.append(dict(
+    dil="tr", slug="the-good-place-oyunculari", tarih="2026-10-15",
+    baslik="The Good Place oyuncuları: kimler oynuyor ve dizi kaç sezon sürdü?",
+    ozet="The Good Place oyuncuları kimler? NBC dizisinin 4 sezonluk kadrosu, yaratıcısı, puanları ve dizi.jpg'de nasıl takip edileceği.",
+    govde=lambda: f"""
+<p>Bir kazada ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop'un hikâyesi, <a href="https://dizijpg.com/icerik/tv/66573">the good place oyuncuları</a> aramasının en çok merak ettiği dizi. Dizi 4 sezon ve 50 bölüm sürdü. Bu yazıda kadroyu, künyeyi ve puanları topladım.</p>
+
+<h2>Dizinin konusu</h2>
+<p>Dizi, bir kazada ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop'u merkeze alıyor. Ahiretteki yaşantısında kendisinin pek iyi bir insan olmadığını fark eden Eleanor, ahiret hocası Michael'ın yardımıyla içindeki iyi insanı bulmaya ve sıradan hayatına dönmeye çalışıyor. Sayfadaki özete göre dizi, pastel renkli ve tertemiz bir ahirette geçiyor. Dizinin künyesi, puanları ve bölüm listesi sayfada aynı yerde duruyor.</p>
+<h2>The Good Place oyuncuları kimler?</h2>
+<p>Ana rolde Kristen Bell ve Ted Danson var. dizi.jpg'deki kadro listesinde William Jackson Harper, Jameela Jamil, Manny Jacinto, D'Arcy Carden, Marc Evan Jackson ve Tiya Sircar yer alıyor. Konuk oyuncular arasında Maya Rudolph ve Jason Mantzoukas da bulunuyor.</p>
+
+<h2>Dizinin künyesi</h2>
+<ul>
+<li><strong>Kadro:</strong> dizi.jpg sayfasında 20 oyuncu listeleniyor.</li>
+<li><strong>Yayın yılı:</strong> 2016. İlk bölüm 19 Eylül 2016'da yayımlandı.</li>
+<li><strong>Sezon ve bölüm:</strong> 4 sezon, 50 bölüm. Dizi sona erdi.</li>
+<li><strong>Kanal:</strong> NBC</li>
+<li><strong>Yaratıcı:</strong> Michael Schur</li>
+<li><strong>Tür:</strong> Bilim kurgu ve fantazi, komedi</li>
+</ul>
+<p>Sayfadaki özete göre hikâye, Eleanor'ın öbür tarafta yaşadıklarını merkeze alıyor. Komedi ve fantazi türlerinin birlikte geldiği dizi, sezonları kısa sürede bitirtebiliyor.</p>
+
+<h2>Puanlar ve takip</h2>
+<p>dizi.jpg sayfasında dizi IMDb'de 8,2, Rotten Tomatoes'ta %97, Popcornmeter'da %90, Metacritic'te 82 ve TMDB'de 8,0 puan alıyor. Dizi bittiği için tüm bölümleri tek seferde işaretleyip ilerleyebilirsin.</p>
+
+<h2>Dizi kime göre?</h2>
+<p>The Good Place, komedi ile felsefi sorular arasında gidip gelen bir dizi arayanlar için. Dört sezon ve 50 bölüm, Eleanor'ın kendini yeniden keşfettiği hikâyeyi tamamlanmış bir yapı olarak sunuyor. Dizi bittiği için sonunu merak etmeden bölümleri sırayla takip edebilirsin.</p>
+<p>dizi.jpg sayfasındaki puanlar IMDb ve TMDB'de kullanıcı oylarından, Rotten Tomatoes ile Popcornmeter'da eleştirmen ve izleyici oranlarından, Metacritic'te ise eleştirmen puanlarının ağırlıklı ortalamasından geliyor.</p>
+<h2>dizi.jpg'de nasıl takip edilir?</h2>
+<p>Her bölümü işaretlediğinde sezon ilerleme çubuğu dolar; bölüm sayısı az olduğu için bir sezonu birkaç oturumda bitirmek mümkün. Puan verip kısa bir inceleme de yazabilirsin. Takip listene eklediğin diziler İzleyeceğim, İzliyorum, Bitirdim ya da Bıraktım raflarında ayrı ayrı duruyor.</p>
+<h2>Sık sorulan sorular</h2>
+<h3>The Good Place oyuncuları kimler?</h3>
+<p>Kristen Bell, Ted Danson, William Jackson Harper ve Jameela Jamil dizinin bilinen isimleri arasında. Tam liste dizinin sayfasında. Kristen Bell ana rolde, Ted Danson ise dizide öne çıkan ikinci isim.</p>
+<h3>The Good Place kaç sezon sürdü?</h3>
+<p>4 sezon ve 50 bölüm. Dizi sona erdi; Eleanor Shellstrop'un hikâyesi bu bölümlerde tamamlanıyor.</p>
+<h3>Dizi hangi kanalda yayımlandı?</h3>
+<p>NBC kanalında yayımlandı; sayfadaki kanal bilgisi de bu. Kanal bilgisi, dizinin hangi ağda yayımlandığını hızlıca anlamanı sağlar. Dizi bittiği için takip listende Bitirdim rafına geçirmek de mümkün.</p>
+
+<h2>Kısa özet</h2>
+<p>Bu yazıda kadroyu, künyeyi ve puanları topladım. Dizi dört sezon ve 50 bölümle sona erdi; dizi.jpg'de bölümleri işaretleyerek sezon ilerlemeni görebilir, puan ve kısa inceleme ekleyebilirsin.</p>
+<h2>Takip etmek için</h2>
+<p>Dizilerini ve filmlerini tek yerde tutmak istersen <a href="https://dizijpg.com/">dizi.jpg</a>'e bakabilirsin. Webde açılır; Android ve iPhone uygulaması da var.</p>
+"""))
+
 # ---------------------------------------------------------------- şablon
 CSS_SURUM = "1"
 
