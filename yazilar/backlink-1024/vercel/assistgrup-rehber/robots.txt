@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assistgrup-rehber.vercel.app/sitemap.xml
