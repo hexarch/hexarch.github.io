@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tijd-rehber.vercel.app/sitemap.xml

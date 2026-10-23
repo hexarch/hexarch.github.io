@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dotams-rehber.vercel.app/sitemap.xml
