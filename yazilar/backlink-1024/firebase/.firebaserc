@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "dizijpg-blog"
+  },
+  "targets": {
+    "dizijpg-blog": {
+      "hosting": {
+        "hiscientific": [
+          "hiscientific-rehber"
+        ],
+        "bearisk": [
+          "bearisk-rehber"
+        ],
+        "servistservis": [
+          "servistservis-rehber"
+        ],
+        "servistservistr": [
+          "servistservistr-rehber"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,6 @@
+{"hosting": [
+  {"target": "hiscientific", "public": "hiscientific-rehber", "ignore": ["firebase.json", "**/.*"], "cleanUrls": true},
+  {"target": "bearisk", "public": "bearisk-rehber", "ignore": ["firebase.json", "**/.*"], "cleanUrls": true},
+  {"target": "servistservis", "public": "servistservis-rehber", "ignore": ["firebase.json", "**/.*"], "cleanUrls": true},
+  {"target": "servistservistr", "public": "servistservistr-rehber", "ignore": ["firebase.json", "**/.*"], "cleanUrls": true}
+]}

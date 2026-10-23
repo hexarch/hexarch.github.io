@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bearisk-rehber.web.app/sitemap.xml
